@@ -1,2 +1,2 @@
 # mean
-This is the application built using MEAN stack
+This application is built using MEAN stack
